@@ -1,7 +1,7 @@
 # 개요
 김영환님의 스프링부트 강의중 로깅부분을 가져와 모듈화하였습니다. 
 다음과 같은 로깅을 하는 모듈입니다.
-
+java 8버전 이상 지원
 <img width="775" alt="image" src="https://github.com/PraiseBak/TimeLog/assets/60121346/2d2abb95-3ae8-47c2-ac0d-f214d8b6c643">
 
 # 사용방법
