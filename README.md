@@ -5,6 +5,10 @@ java 8버전 이상 지원
 <img width="775" alt="image" src="https://github.com/PraiseBak/TimeLog/assets/60121346/2d2abb95-3ae8-47c2-ac0d-f214d8b6c643">
 
 # 사용방법
+
+위 소스 코드를 빌드(./gradlew build)하여 ./build/libs 내에 생성된 jar 파일을 사용하면 됩니다.
+
+
 ```
 public class TimeLogApplication {
     public static void main(String[] args) {
